@@ -1,0 +1,930 @@
+{
+  "users": [
+    {
+      "id": "e45c",
+      "userName": "abcdefaasdfAAbc",
+      "email": "jhondoe@gmail.com",
+      "password": "aaaaaaaa"
+    },
+    {
+      "id": "b6a3",
+      "userName": "abcdefaasdfAAbc",
+      "email": "jhondoe@gmail.com",
+      "password": "aaaaaaaa"
+    },
+    {
+      "id": "f064",
+      "userName": "arun",
+      "email": "arun@gmail.com",
+      "password": "arundas"
+    },
+    {
+      "id": "4e28",
+      "userName": "abcd",
+      "email": "abc@gmail.com",
+      "password": "abcdefgh"
+    }
+  ],
+  "expenses": [
+    {
+      "title": "chips",
+      "description": "hot chips at abc shop",
+      "amount": "205",
+      "date": "2024-04-17",
+      "category": "food",
+      "userId": "e45c",
+      "id": "6c7b"
+    },
+    {
+      "id": "9d51",
+      "title": "ice cream",
+      "description": "ice cream at parlour",
+      "amount": "120",
+      "date": "2024-04-11",
+      "category": "food",
+      "userId": "e45c"
+    },
+    {
+      "title": "nuts, fruits",
+      "description": "groceries at xyz shotp",
+      "amount": "550",
+      "date": "2024-04-20",
+      "category": "groceries",
+      "userId": "e45c",
+      "id": "7415"
+    },
+    {
+      "id": "5a0f",
+      "title": "Movie tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 618,
+      "date": "24/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "2648",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 327,
+      "date": "31/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "7c10",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 324,
+      "date": "03/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "c783",
+      "title": "Grocery shopping",
+      "description": "Weekly grocery shopping",
+      "amount": 415,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "2865",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 972,
+      "date": "25/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "0908",
+      "title": "Grocery shopping",
+      "description": "Weekly grocery shopping",
+      "amount": 897,
+      "date": "16/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "62f9",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 762,
+      "date": "15/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "5f43",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 769,
+      "date": "20/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "16aa",
+      "title": "Restaurant dinner",
+      "description": "Weekly grocery shopping",
+      "amount": 381,
+      "date": "18/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "1808",
+      "title": "Movie tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 882,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "5a6f",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 605,
+      "date": "21/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "8e7a",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 305,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "dee9",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 930,
+      "date": "31/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "df1a",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 323,
+      "date": "13/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "b710",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 650,
+      "date": "02/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "8e50",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 649,
+      "date": "26/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "820b",
+      "title": "Movie tickets",
+      "description": "Enjoying live music",
+      "amount": 910,
+      "date": "31/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "235b",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 438,
+      "date": "12/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "e2a4",
+      "title": "Movie tickets",
+      "description": "Enjoying live music",
+      "amount": 741,
+      "date": "01/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "6b78",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 656,
+      "date": "10/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "27b3",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 339,
+      "date": "25/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "b5e9",
+      "title": "Movie tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 941,
+      "date": "01/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "11fd",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 321,
+      "date": "24/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "9fcb",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 89,
+      "date": "01/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "6477",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 71,
+      "date": "16/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "b098",
+      "title": "Restaurant dinner",
+      "description": "Weekly grocery shopping",
+      "amount": 180,
+      "date": "22/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "048d",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 195,
+      "date": "31/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "68e7",
+      "title": "Grocery shopping",
+      "description": "Fun night out with friends",
+      "amount": 209,
+      "date": "29/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "16ef",
+      "title": "Concert tickets",
+      "description": "Fun night out with friends",
+      "amount": 348,
+      "date": "21/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "1ea5",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 938,
+      "date": "22/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "7f8f",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 904,
+      "date": "18/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "3afa",
+      "title": "Movie tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 41,
+      "date": "20/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "c046",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 636,
+      "date": "11/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "28ad",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 758,
+      "date": "16/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "0ec6",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 813,
+      "date": "20/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "f558",
+      "title": "Grocery shopping",
+      "description": "Weekly grocery shopping",
+      "amount": 559,
+      "date": "23/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "971a",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 378,
+      "date": "05/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "398e",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 185,
+      "date": "05/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "db0f",
+      "title": "Movie tickets",
+      "description": "Enjoying live music",
+      "amount": 350,
+      "date": "08/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "98f2",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 315,
+      "date": "11/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "680d",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 543,
+      "date": "03/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "d686",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 536,
+      "date": "10/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "84fb",
+      "title": "Restaurant dinner",
+      "description": "Weekly grocery shopping",
+      "amount": 254,
+      "date": "17/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "8743",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 578,
+      "date": "30/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "4b6c",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 148,
+      "date": "13/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "db32",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 670,
+      "date": "30/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "6676",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 608,
+      "date": "29/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "07d8",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 924,
+      "date": "15/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "0a03",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 924,
+      "date": "31/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "f024",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 328,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "45e7",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 284,
+      "date": "01/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "5ffb",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 583,
+      "date": "04/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "c193",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 616,
+      "date": "02/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "49ac",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 764,
+      "date": "12/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "aaab",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 415,
+      "date": "07/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "915f",
+      "title": "Movie tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 925,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "636c",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 746,
+      "date": "04/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "97cd",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 872,
+      "date": "31/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "ba23",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 611,
+      "date": "20/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "a5a6",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 360,
+      "date": "15/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "96e2",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 753,
+      "date": "04/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "cf94",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 904,
+      "date": "22/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "00d4",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 962,
+      "date": "15/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "28f8",
+      "title": "Restaurant dinner",
+      "description": "Weekly grocery shopping",
+      "amount": 745,
+      "date": "07/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "cc63",
+      "title": "Movie tickets",
+      "description": "Fun night out with friends",
+      "amount": 711,
+      "date": "17/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "87d1",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 698,
+      "date": "12/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "dff1",
+      "title": "Grocery shopping",
+      "description": "Fun night out with friends",
+      "amount": 411,
+      "date": "16/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "a4c9",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 935,
+      "date": "26/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "8e42",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 298,
+      "date": "07/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "09e2",
+      "title": "Movie tickets",
+      "description": "Fun night out with friends",
+      "amount": 353,
+      "date": "31/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "9a14",
+      "title": "Concert tickets",
+      "description": "Fun night out with friends",
+      "amount": 125,
+      "date": "10/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "076a",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 549,
+      "date": "04/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "ccee",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 677,
+      "date": "26/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "1a5b",
+      "title": "Movie tickets",
+      "description": "Fun night out with friends",
+      "amount": 453,
+      "date": "07/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "f34f",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 294,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "6b68",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 203,
+      "date": "17/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "c070",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 356,
+      "date": "26/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "8dd2",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 515,
+      "date": "11/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "688f",
+      "title": "Grocery shopping",
+      "description": "Enjoying live music",
+      "amount": 331,
+      "date": "20/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "6a31",
+      "title": "Concert tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 510,
+      "date": "02/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "f9cf",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 959,
+      "date": "07/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "2351",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 450,
+      "date": "02/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "ab28",
+      "title": "Concert tickets",
+      "description": "Enjoying live music",
+      "amount": 845,
+      "date": "09/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "c3b0",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 430,
+      "date": "14/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "dd1f",
+      "title": "Concert tickets",
+      "description": "Weekly grocery shopping",
+      "amount": 732,
+      "date": "04/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "87ba",
+      "title": "Grocery shopping",
+      "description": "Fun night out with friends",
+      "amount": 930,
+      "date": "28/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "66d3",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 919,
+      "date": "18/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "25e2",
+      "title": "Movie tickets",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 256,
+      "date": "02/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "c33b",
+      "title": "Grocery shopping",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 245,
+      "date": "28/03/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "de0a",
+      "title": "Restaurant dinner",
+      "description": "Enjoying live music",
+      "amount": 164,
+      "date": "14/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "2301",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 584,
+      "date": "30/03/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "4cd3",
+      "title": "Restaurant dinner",
+      "description": "Delicious dinner at a local restaurant",
+      "amount": 538,
+      "date": "18/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "80a0",
+      "title": "Restaurant dinner",
+      "description": "Weekly grocery shopping",
+      "amount": 150,
+      "date": "08/04/2024",
+      "category": "food supplies",
+      "userId": "f064"
+    },
+    {
+      "id": "a53e",
+      "title": "Restaurant dinner",
+      "description": "Fun night out with friends",
+      "amount": 166,
+      "date": "13/04/2024",
+      "category": "entertainment",
+      "userId": "f064"
+    },
+    {
+      "id": "cde5",
+      "title": "a",
+      "description": "hot chips at abc shop",
+      "amount": 22,
+      "date": "27/04/2024",
+      "category": "food",
+      "userId": "f064"
+    },
+    {
+      "title": "a",
+      "description": "asdf",
+      "amount": 2,
+      "date": "03/05/2024",
+      "category": "asdfasdf",
+      "userId": "4e28",
+      "id": "93ea"
+    },
+    {
+      "id": "5724",
+      "title": "a",
+      "description": "a",
+      "amount": 2,
+      "date": "2024-04-26",
+      "category": "asdf",
+      "userId": "f064"
+    }
+  ]
+}
